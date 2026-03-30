@@ -1,5 +1,7 @@
 # Accounting Firms Hiring Around Process Problems
 
+![Accounting Firms Hiring Around Process Problems](assets/social-preview.png)
+
 Lists of accounting firms still adding bookkeeping headcount instead of fixing the workflow.
 
 Useful if you sell accounting automation, back-office ops, or workflow redesign.
