@@ -19,7 +19,7 @@ Useful if you sell accounting automation, back-office ops, or workflow redesign.
 - Dataset hub: https://www.enrichanything.com/datasets/
 - Public API docs: https://www.enrichanything.com/api/
 - OpenAPI spec: https://www.enrichanything.com/openapi.json
-- Last refresh: May 18, 2026
+- Last refresh: May 25, 2026
 - Refresh command: `npm run refresh`
 
 ## Developer links
